@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobloxMultipleAccounts", "RobloxMultipleAccounts.csproj", "{67012BB6-6457-41CA-949E-C6CFBAB0C16F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67012BB6-6457-41CA-949E-C6CFBAB0C16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67012BB6-6457-41CA-949E-C6CFBAB0C16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67012BB6-6457-41CA-949E-C6CFBAB0C16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67012BB6-6457-41CA-949E-C6CFBAB0C16F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EE5FDC7-C583-465C-8C6B-182DC73B41B2}
+	EndGlobalSection
+EndGlobal
